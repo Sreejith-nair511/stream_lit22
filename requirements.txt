@@ -1,0 +1,9 @@
+streamlit
+pandas
+folium
+streamlit-folium
+gtts
+speechrecognition
+geocoder
+ollama
+openpyxl
